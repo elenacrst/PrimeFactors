@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Prime Factors</string>
+    <string name="instructions">Enter the desired number below and press the button to display prime factors.</string>
+    <string name="hint">Type an integer here…</string>
+    <string name="generate_prime_factors">display prime factors</string>
+    <string name="error_input">Error : please introduce an integer value.</string>
+    <string name="error_zero">Can\'t calculate prime factors for 0.</string>
+    <string name="prime_factors_result">Prime factors :</string>
+    <string name="error_empty_text">Error : Empty field.\nPlease introduce an integer value.</string>
+</resources>
